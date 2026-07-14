@@ -7,7 +7,7 @@ export const profile = {
   available: true,
   email: "balu123456sbb@gmail.com",
   github: "https://github.com/MrArrogant2002",
-  photo: "/profile.jpg",
+  photo: "/profile.png",
   tagline:
     "I build autonomous agents, RAG systems, and deep-learning models — and ship them as products people can actually use.",
   about: [
